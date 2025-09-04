@@ -46,3 +46,4 @@ This repository contains several small Flask projects (`pro1` to `pro7`) for lea
 1. **Install dependencies:**
    ```sh
    pip install flask flask_sqlalchemy
+   python app.py
